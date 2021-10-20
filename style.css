@@ -1,11 +1,11 @@
-/*centered image*/
+  /*centered image*/
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-/*styled header, article, footer, hr and a*/
+  /*styled header, article, footer, hr and a*/
 header {
 	background-color: slategrey;
 	color: white;
@@ -43,7 +43,7 @@ a {
   font-size: 20px;
 }
 
-/*styled links using pseudo-classes*/
+  /*styled links using pseudo-classes*/
 
 a:link    { color: gray;  }
 a:visited { color:lightgray;   }
